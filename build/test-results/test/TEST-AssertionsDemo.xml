@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AssertionsDemo" tests="8" skipped="0" failures="0" errors="0" timestamp="2021-02-18T04:44:49" hostname="HYUNBC" time="0.051">
+  <properties/>
+  <testcase name="exceptionTesting()" classname="AssertionsDemo" time="0.021"/>
+  <testcase name="groupedAssertions()" classname="AssertionsDemo" time="0.005"/>
+  <testcase name="timeoutExceeded()" classname="AssertionsDemo" time="0.006"/>
+  <testcase name="dependentAssertions()" classname="AssertionsDemo" time="0.002"/>
+  <testcase name="timeoutNotExceeded()" classname="AssertionsDemo" time="0.002"/>
+  <testcase name="timeoutNotExceededWithMethod()" classname="AssertionsDemo" time="0.004"/>
+  <testcase name="standardAssertions()" classname="AssertionsDemo" time="0.001"/>
+  <testcase name="timeoutNotExceededWithResult()" classname="AssertionsDemo" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MyTest" tests="18" skipped="2" failures="0" errors="0" timestamp="2021-02-18T04:44:49" hostname="HYUNBC" time="0.149">
+  <properties/>
+  <testcase name="repetition 1 of 10" classname="MyTest" time="0.007"/>
+  <testcase name="repetition 2 of 10" classname="MyTest" time="0.001"/>
+  <testcase name="repetition 3 of 10" classname="MyTest" time="0.002"/>
+  <testcase name="repetition 4 of 10" classname="MyTest" time="0.006"/>
+  <testcase name="repetition 5 of 10" classname="MyTest" time="0.001"/>
+  <testcase name="repetition 6 of 10" classname="MyTest" time="0.002"/>
+  <testcase name="repetition 7 of 10" classname="MyTest" time="0.002"/>
+  <testcase name="repetition 8 of 10" classname="MyTest" time="0.001"/>
+  <testcase name="repetition 9 of 10" classname="MyTest" time="0.002"/>
+  <testcase name="repetition 10 of 10" classname="MyTest" time="0.003"/>
+  <testcase name="timeoutAssertTest()" classname="MyTest" time="0.001"/>
+  <testcase name="�빉째�뼞째竊됤빉" classname="MyTest" time="0.001"/>
+  <testcase name="failsIfExecutionTimeExceeds100Milliseconds()" classname="MyTest" time="0.006"/>
+  <testcase name="trueAssumption()" classname="MyTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="�뀒�뒪�듃瑜� �뒪�궢�떆�궗�닔 �엳�떎." classname="MyTest" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase name="�윑�" classname="MyTest" time="0.008"/>
+  <testcase name="�뜕吏��뒗 �삁�쇅瑜� �뀒�뒪�듃 �븷 �닔 �엳�떎." classname="MyTest" time="0.061"/>
+  <testcase name="numberAdd()" classname="MyTest" time="0.005"/>
+  <system-out><![CDATA[before each
+repeat
+after each
+before each
+repeat
+after each
+before each
+repeat
+after each
+before each
+repeat
+after each
+before each
+repeat
+after each
+before each
+repeat
+after each
+before each
+repeat
+after each
+before each
+repeat
+after each
+before each
+repeat
+after each
+before each
+repeat
+after each
+before each
+after each
+before each
+after each
+before each
+after each
+before each
+after each
+before each
+Not supported
+after each
+before each
+after each
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ConditionalTest" tests="6" skipped="5" failures="0" errors="0" timestamp="2021-02-18T04:44:49" hostname="HYUNBC" time="0.025">
+  <properties/>
+  <testcase name="onJava9Or10()" classname="ConditionalTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="fromJava9toCurrentJavaFeatureNumber()" classname="ConditionalTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="onlyOnMacOs()" classname="ConditionalTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="onLinuxOrMac()" classname="ConditionalTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="fromJava8To11()" classname="ConditionalTest" time="0.003"/>
+  <testcase name="envVariableTest()" classname="ConditionalTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
